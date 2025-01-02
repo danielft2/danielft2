@@ -1,4 +1,4 @@
-# Olá, meu nome é Daniel, Desenvolvedor Front-end 👋
+# Olá, meu nome é Daniel 👋
 
 ## Sobre mim
 Estudante em fase final de graduação em Engenharia de Software, com mais de 3 anos de experiência em desenvolvimento de software. Possuo conhecimentos sólidos em programação, abrangendo diversas linguagens e tecnologias com foco em React, React Native e Angular. Ademais possuo conhecimentos sólidos e boas práticas em UI/UX.
