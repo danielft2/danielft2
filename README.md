@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Daniel 👋
 
-<!--
-**danielft2/danielft2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a love for solving complex problems and building innovative solutions. I have a background in software development and a keen interest in open-source projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [FastAPI]
+- 👯 I’m looking to collaborate on [Projects You Are Interested In]
+- 🤔 I’m looking for help with [Areas Where You Need Assistance]
+- 💬 Ask me about [Topics You Are Knowledgeable About]
+- 📫 How to reach me: [Your Email or LinkedIn Profile]
+- ⚡ Fun fact: [A Fun Fact About You]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Programming Languages: [List of Languages]
+- Frameworks & Libraries: [React, Next.js, React Native, Angular]
+- Tools & Platforms: [List of Tools and Platforms]
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/danielfreitasdev/)
+
+<!-- Optional: Add any other sections or custom content you'd like to include -->
