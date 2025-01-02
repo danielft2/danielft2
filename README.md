@@ -1,22 +1,13 @@
-# Hi there, I'm Daniel 👋
+# Olá, meu nome é Daniel, Desenvolvedor Front-end 👋
 
-## About Me
-I'm a passionate developer with a love for solving complex problems and building innovative solutions. I have a background in software development and a keen interest in open-source projects.
+## Sobre mim
+Estudante em fase final de graduação em Engenharia de Software, com mais de 3 anos de experiência em desenvolvimento de software. Possuo conhecimentos sólidos em programação, abrangendo diversas linguagens e tecnologias com foco em React, React Native e Angular. Ademais possuo conhecimentos sólidos e boas práticas em UI/UX.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [FastAPI]
-- 👯 I’m looking to collaborate on [Projects You Are Interested In]
-- 🤔 I’m looking for help with [Areas Where You Need Assistance]
-- 💬 Ask me about [Topics You Are Knowledgeable About]
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- ⚡ Fun fact: [A Fun Fact About You]
+## 🛠️ Tecnologias & Ferramentas
+- Linguagens de Programação: [Javascript, Typescript, Python, Kotlin]
+- Frameworks & Bibliotecas: [React, Next.js, React Native, Expo, Angular]
 
-## 🛠️ Technologies & Tools
-- Programming Languages: [List of Languages]
-- Frameworks & Libraries: [React, Next.js, React Native, Angular]
-- Tools & Platforms: [List of Tools and Platforms]
-
-## 🔗 Connect with Me
+## 🔗 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/danielfreitasdev/)
 
 <!-- Optional: Add any other sections or custom content you'd like to include -->
