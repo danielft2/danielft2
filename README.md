@@ -1,7 +1,11 @@
 # Olá, meu nome é Daniel 👋
 
 ## Sobre mim
-Estudante em fase final de graduação em Engenharia de Software, com mais de 3 anos de experiência em desenvolvimento de software. Possuo conhecimentos sólidos em programação, abrangendo diversas linguagens e tecnologias com foco em React, React Native e Angular. Ademais possuo conhecimentos sólidos e boas práticas em UI/UX.
+Estudante em fase final de graduação em Engenharia de Software, com mais de três anos de experiência em desenvolvimento de software, especializado em Front-End. 
+
+Tenho sólidos conhecimentos em linguagens e tecnologias como React, React Native, Angular, JavaScript, TypeScript e Next.js. Minha paixão é unir habilidades técnicas a princípios de UI/UX para criar produtos de alta qualidade.
+
+Ao longo da minha trajetória, participei de projetos que exigiram atuação tanto no design quanto na programação. Essas experiências me permitem agregar valor ao desenvolvimento de produtos com foco no usuário.
 
 ## 🛠️ Tecnologias & Ferramentas
 - Linguagens de Programação: [Javascript, Typescript, Python, Kotlin]
